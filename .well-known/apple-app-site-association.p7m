@@ -1,0 +1,21 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "ZJ77BR2474.com.edusta.studybuddy" ],
+             "components": [
+               {
+                  "/": "",
+                  "?": {
+                     "sessionId": "?*"
+                  },
+                  "comment": "Only match the links with sessionId"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "ZJ77BR2474.com.edusta.studybuddy" ]
+   }
+}
